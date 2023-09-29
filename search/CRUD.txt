@@ -1,4 +1,3 @@
-
 Create (C): 
 This operation involves creating new data records or resources in a system.
 It typically involves inserting new data into a database or adding new entries to a collection.
