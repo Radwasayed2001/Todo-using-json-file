@@ -11,7 +11,7 @@ if (isset($_SESSION['auth'])) {
     <?php
         include('inc/navbar.php');
     ?>
-    <form class="row g-3 needs-validation w-60 m-5" novalidate method="post" action="./handelers/handelLogin.php">
+    <form class="row g-3 needs-validation w-60 m-lg-5" novalidate method="post" action="./handelers/handelLogin.php">
   <div class="col-md-10">
     <label for="validationCustomUsername" class="form-label">Username</label>
     <div class="input-group has-validation">
