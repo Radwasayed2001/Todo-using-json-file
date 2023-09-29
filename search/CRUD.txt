@@ -1,0 +1,24 @@
+
+Create (C): 
+This operation involves creating new data records or resources in a system.
+It typically involves inserting new data into a database or adding new entries to a collection.
+For example, in a web application,
+you might have a form that allows users to create new user accounts by providing their information such as username,
+email, and password.
+
+Read (R):
+The read operation retrieves or fetches existing data from a database or resource.
+It allows users to access and view data that has been stored.
+For example, in a blog application,
+the read operation might involve retrieving blog posts from a database and displaying them on a web page for users to read.
+
+Update (U):
+The update operation modifies or changes existing data in a database or resource.
+It allows users to edit or update specific fields or properties of a record without creating a new one.
+For example, in a task management application,
+users might have the ability to update the status or due date of a task.
+
+Delete (D):
+The delete operation removes or deletes existing data or resources from a database.
+It eliminates a specific record or entry from the system. For example, in a messaging application,
+the delete operation might involve removing a message from a conversation.
